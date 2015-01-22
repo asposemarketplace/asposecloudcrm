@@ -1,5 +1,5 @@
 # Aspose Cloud For Dynamics CRM
-* [Aspose Cloud AutoMerge]
+* [Aspose Cloud AutoMerge](https://github.com/asposemarketplace/asposecloudcrm/wiki/Aspose-Cloud-AutoMerge)
 
 ## Supported Platforms
 * Microsoft Dynamics CRM 2013
